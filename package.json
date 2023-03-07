@@ -1,0 +1,20 @@
+{
+  "name": "tcc---ecommerce-web",
+  "version": "1.0.0",
+  "description": "ecommerce rest api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaabe-santos/TCC-Ecommerce.git"
+  },
+  "keywords": [],
+  "author": "Gabriel's",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaabe-santos/TCC-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/Gaabe-santos/TCC-Ecommerce#readme"
+}
